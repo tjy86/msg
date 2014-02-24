@@ -10,6 +10,10 @@
   margin-top:80px;
   margin-bottom:20px;
 }
+
+#wufoo-form{
+  margin-top: 70px;
+}
 .menu-name{
   font-weight: bold;
   font-size: 24px;
@@ -60,4 +64,8 @@
 
 .table>tbody>tr>td{
   border-top:none;
+}
+
+.hidden{
+  display:none;
 }
